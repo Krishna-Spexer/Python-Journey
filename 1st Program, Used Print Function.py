@@ -1,0 +1,5 @@
+print("Hello World")
+print(5)
+print("Just A Starting Of Python")
+print(18*14)
+print("This Program Is Only To Understand Print Fucntion")
