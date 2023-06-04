@@ -1,0 +1,12 @@
+tup = (1)
+print(type(tup),tup)
+tup1 = (1,)
+print(type(tup1),tup1)
+tup3=(1,35,6,3,6,31,"hy")
+print(tup3)
+print(len(tup3))
+print(tup3[0])
+print(tup3[:0])
+print(tup3[0:])
+print(tup3[-6])
+print(tup3[len(tup3):-2]) # Still Some Doubts
